@@ -1,0 +1,20 @@
+1001,pwd,Ratan Bhatt,Accounts,9876543210,ratanbhatt@gmail.com,ratanb
+1002,pwsd,Ratan Sharma,IT,9876543211,ratans@gmail.com,ratanss
+1003,password,Avi Sharma,IT,9876543212,avis@gmail.com,avis
+1004,pass,Anika Sharma,HR,9876544212,anika@yahoo.com,ankia23
+1005,12345,Tanmay Bhatt,IT,9888544212,tanmaybhatt@gmail.com,tanmay12
+1006,qwerty,Tanishq Bakchi,Accounts,9876511112,bakchit@gmail.com,bakchit
+1007,ithr,Manish Malhotra,Admin,9876521412,anika@yahoo.com,ankia221
+1008,qwe123,Yash Agarwal,HR,9845474212,anika@yahoo.com,a222
+1009,11111,Krishna,Accounts,9776544212,anika@yahoo.com,kia34
+1010,sunshine,Phunsuk Wangdu,Safety,7456544212,wangdua@yahoo.com,aia98
+1011,words,Muskan Jain,HR,9876114212,musakn@gmail.com,ana3
+1012,wordply,Harshit Jain,Safety,8846544212,harshit@gmail.com,ania3
+1013,word,Yashi Rastogi,IT,9876544212,anika@gmail.com,yashi
+1014,wordpass,Harshit Rastogi,Safety,9846544212,anika@gmail.com,rastogi
+1015,pass,Abhishek Jain,Safety,7746544212,anika@gmail.com,jain
+1016,coldplay,Rajat Arora,Safety,8446544212,anika@gmail.com,rajat
+1017,imagine,Anamika,Safety,9996544212,anika@gmail.com,anamika
+1018,dragon,Karan Rastogi,Safety,7646544212,anika@gmail.com,karan
+1019,puth,Charlie Puth,Admin,7646644212,anika@gmail.com,charlie
+1020,sheeran,Ed Sheeran,HR,7646598212,anika@gmail.com,sheeran
