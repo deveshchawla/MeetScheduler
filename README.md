@@ -1,5 +1,7 @@
 # MeetScheduler 
-A command line Meeting Management System which allows user to create, manage and notify meetings to other users of the system.
+A command line Meeting Management System which allows user to create, manage and notify meetings to other users of the system. 
+
+This mini project implements various OOPS concepts. The application uses info stored in specific format in various txt files.
 
 Features:
 1. Schedule a Meeting.
@@ -10,6 +12,8 @@ Features:
 # Instructions
 To run the application, first compile all the files in the repository using following command
 
-""g++ MeetScheduler.cpp common.h location.cpp location.h Login.h Login.cpp Meeting.cpp notification.cpp notification.h participant.h participant.cpp ./Meet.exe""
+1. g++ MeetScheduler.cpp common.h location.cpp location.h Login.h Login.cpp Meeting.cpp notification.cpp notification.h participant.h participant.cpp ./Meet.exe
 
-Then open the Meet.exe to run the application.
+2. Open Meet.exe to run the application.
+
+Note: Some precompiled header files will be created during the compilation process, which does affect any other files.
